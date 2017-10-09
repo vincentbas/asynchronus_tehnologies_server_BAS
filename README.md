@@ -17,10 +17,6 @@ Use `node index.js`
 
 For later
 
-## Contributors
-
-Cesar Berezowski
-
 ## License
 
 Apache2

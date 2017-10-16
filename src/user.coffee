@@ -5,7 +5,7 @@ module.exports =
   # - Pwd = password
   # - Callback = function to call when done
   save: (name, pwd, callback) ->
-    if callback == null
+    if callback == undefined
       callback = pwd
       callback new Error "missing parameters"
     else

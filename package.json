@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "scripts": {
     "start": "./bin/start",
-    "test": "./bin/test tests/*",
+    "test": "bash bin/test tests/*",
     "compile": "./bin/compile"
   },
   "dependencies": {

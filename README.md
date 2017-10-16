@@ -1,7 +1,7 @@
 
 # AST 2017
 
-![Build](https://travis-ci.org/cesarBere/ece-nodejs-2017.svg?branch=master)
+![Build](https://travis-ci.org/vincentbas/asynchronus_tehnologies_server_BAS.svg?branch=master)
 
 simple project for ECE AST class
 
@@ -15,7 +15,7 @@ Use `node index.js`
 
 ## Tests
 
-For later 
+For later
 
 ## License
 
